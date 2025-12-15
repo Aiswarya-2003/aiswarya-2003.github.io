@@ -3,8 +3,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aiswarya-2003&color=blueviolet)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/aiswarya-sunil-a5807829b])
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)]([mailto:aiswaryasunild2003@gmail.com])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aiswarya-sunil-a5807829b)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aiswaryasunild2003@gmail.com)
   
 </div>
 
@@ -65,7 +65,7 @@ Bill tracking system built with **PHP**
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-sunil-a5807829b/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswaryasunild2003@gmail.com)
   
-  **📄 [View My Resume]([link-to-resume.pdf](https://github.com/Aiswarya-2003/my-profile/blob/main/Aiswarya_Sunil_Resume.pdf))**
+  **📄 [View My Resume](https://github.com/Aiswarya-2003/my-profile/blob/main/Aiswarya_Sunil_Resume.pdf)**
   
 </div>
 
