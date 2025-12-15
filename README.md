@@ -3,8 +3,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aiswarya-2003&color=blueviolet)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/aiswarya-sunil-a5807829b/))
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aiswaryasunild2003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/aiswarya-sunil-a5807829b])
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)]([mailto:aiswaryasunild2003@gmail.com])
   
 </div>
 
